@@ -1,0 +1,26 @@
+{
+  "source_file": "Saffire_Data_Table2017.161.00.42.03-EU.csv",
+  "rows_clean": 11449,
+  "rows_sample": 11449,
+  "downsample_step": 1,
+  "channels": [
+    "P@sfsHk.Radiometer1value",
+    "P@sfsHk.Radiometer2value",
+    "P@sfsHk.Radiometer3value",
+    "P@sfsHk.Radiometer4value",
+    "P@sfsHk.Anemometer1",
+    "P@sfsHk.Anemometer2",
+    "P@sfsHk.FanTachometer",
+    "P@sfsHk.SmokeWireVoltage",
+    "P@sfsHk.SmokeWireCurrent",
+    "P@sfsHk.Sample1IgniterVoltage",
+    "P@sfsHk.Sample1IgniterCurrent",
+    "P@sfsHk.Sample2IgniterVoltage",
+    "P@sfsHk.Sample2IgniterCurrent",
+    "P@PCM_ETS_TEMP_SIG",
+    "P@OPS_PCM_PRES_AVG_BY_TEMP",
+    "P@CDH_F1PCM_SMK_DET_SCAT_SENS_P",
+    "P@CDH_F2PCM_SMK_DET_SCAT_SENS_P",
+    "P@CDH_F2PCM_SMK_DET_OBS_SENS_P"
+  ]
+}
